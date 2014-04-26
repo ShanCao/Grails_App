@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="shan-laptop" id="0" name="TekEventSpec" package="com.tekdays" tests="1" time="2.664" timestamp="2014-04-25T03:40:26">
+      <properties />
+
+      <testcase classname="com.tekdays.TekEventSpec" name="test toString" time="2.54" />
+
+      <system-out><![CDATA[--Output from test toString--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test toString--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
